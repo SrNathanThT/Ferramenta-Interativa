@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se escreve "I ghost to the down cool"',
+    'Oque significa "I ghost to the down cool"',
     'Eu fantasma para o frio'
 )
