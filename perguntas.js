@@ -6,7 +6,7 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'Qual o maior e o menor país do mundo',
+    'Qual o maior e o menor país do mundo?',
     'Rússia e Vaticano'
 )
 
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Oque significa "I dont like going to school but its necessary"',
+    'Oque significa "I dont like going to school but its necessary"?',
     'Eu não gosto de ir para escola, mas é necessário'
 )
